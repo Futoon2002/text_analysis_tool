@@ -7,11 +7,17 @@ In this Java text analysis tool, the primary objective is to design and implemen
 The specified functionalities include:
 
 1- Determining the total number of words in a text file
+
 2- Counting the total number of unique words
+
 3- Finding the occurrences of a specific word
+
 4- Counting words with a given length
+
 5- Displaying unique words along with their occurrences sorted by frequency from the most to the least
+
 6- Presenting the locations of word occurrences in terms of line and word positions
+
 7- Checking if two words appear adjacent to each other in the file, requiring at least one occurrence of both words for validation.
 
 
